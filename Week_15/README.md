@@ -64,6 +64,79 @@
    - 分析诊断参数
    - JavaAgent参数
 
+#### 5、JDK内置命令行工具
+- jps/jinfo
+   - jps -help
+   - jps [-q] [-mlvV] [<hostid>]
+
+- jstat -options  
+- jmap
+- jstack
+- jcmd
+- jrunscript/jjs
+
+
+
+#### 6、JDK内置图形化工具
+- jconsole
+- jvisualvm
+- VisualGC
+- jmc
+
+
+#### 7、GC背景与一般原理
+- 清除算法
+   - 标记清除算法（Mark and Sweep）
+- 分代假设
+
+#### 8、串行GC与并行GC
+
+
+#### 9、CMS GC/G1 GC
+
+#### 10、ZGC/Shenandoah GC
+
+
+### 二、Java多线程
+
+#### 1、多线程基础
+
+#### 2、Java多线程
+
+#### 3、线程安全
+
+#### 4、线程池原理与应用
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
